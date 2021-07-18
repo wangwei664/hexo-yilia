@@ -16,3 +16,7 @@ $ hexo s # 启动本地服务器预览
 
 $ hexo d # 部署项目
 ```
+
+![](./hexo-yilia-blog.png)  
+
+![](./hexo-yilia-blog-1.png)
